@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770827407023",
+    "firebase_url": "https://websmart-api.firebaseio.com",
+    "project_id": "websmart-api",
+    "storage_bucket": "websmart-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770827407023:android:b02ad539645d032ffd4e5a",
+        "android_client_info": {
+          "package_name": "com.example.login_with_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770827407023-lstmo7co1cgaadd2h6h74psbiq10qu9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login_with_google",
+            "certificate_hash": "b511738064019b0f494a71c70ceb7e5519266073"
+          }
+        },
+        {
+          "client_id": "770827407023-8taroal2fm8mss1rrfbg9g9p38vs45h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygNdx0gAKgcV-hwsjBi1B2LbrfydE0xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770827407023-8taroal2fm8mss1rrfbg9g9p38vs45h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
